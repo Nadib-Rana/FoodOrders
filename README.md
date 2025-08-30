@@ -1,5 +1,3 @@
-Absolutely, NADIB! Here's a smart and professional description you can use for your GitHub project repository—tailored to highlight your full-stack skills and the unique features of your food ordering app:
-
 ---
 
 ## 🍽️ Smart Food Ordering System with QR Tracking & Admin Panel
