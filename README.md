@@ -31,4 +31,4 @@ A full-stack MERN-based food ordering application designed for seamless customer
 
 
 
-Let me know if you'd like a README.md version with badges, installation steps, or contribution guidelines. I can also help you polish the repo name and tagline to make it pop for recruiters and clients.
+
